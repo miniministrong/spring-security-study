@@ -175,3 +175,6 @@ buildNumber.properties
 .mvn/timing.properties
 
 logs/
+
+*/test/
+*/.idea/
